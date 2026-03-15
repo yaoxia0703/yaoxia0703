@@ -29,14 +29,18 @@ Based in Japan 🇯🇵
 
 - Java
 - Spring Boot
+- Spring MVC
 - Spring Security
+- Spring Data JPA
 - MyBatis / MyBatis Plus
 - REST API Design
 
 ### Database
 
 - MySQL
+- MariaDB
 - Oracle
+- DB2
 - SQL Optimization
 
 ### Cache / Middleware
@@ -44,6 +48,7 @@ Based in Japan 🇯🇵
 - Redis
 - JWT Authentication
 - RBAC Permission Control
+- Session / Token Authentication
 
 ### Frontend
 
@@ -57,7 +62,26 @@ Based in Japan 🇯🇵
 - DDD-inspired Modular Architecture
 - Layered Architecture
 - Modular Design
+- RBAC Authorization Design
 
+### Dev Tools
+
+- Git
+- Maven
+- Gradle / Gradlew
+- Docker
+- Linux
+- IntelliJ IDEA
+- Postman
+- Swagger / OpenAPI
+
+### Cloud / Deployment
+
+- Alibaba Cloud
+- Nginx
+- Docker Deployment
+- Linux Server Deployment
+  
 ---
 
 # 🚀 Main Personal Project
