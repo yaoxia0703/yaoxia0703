@@ -83,6 +83,7 @@ Spring Bootベースのブログシステム（個人開発）
 # 📦 Other Projects
 
 - attendance-system
+- attendance-system-java
 
 ---
 
