@@ -142,3 +142,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/yaoxia0703/yaoxia0703/output/github-contribution-grid-snake.svg)
+
