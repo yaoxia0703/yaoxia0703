@@ -18,15 +18,7 @@ Based in Japan 🇯🇵
 また、個人プロジェクトとしてSpring Bootベースのブログシステム開発を行っており、RBAC権限管理やJWT認証に加え、DDD（Domain Driven Design）を意識したアーキテクチャ設計にも取り組んでいます。
 
 ---
-## 🕒 Weekly Coding Time
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## 🛠 Tech Stack
 
@@ -135,3 +127,18 @@ Spring Bootベースのブログシステム（個人開発）
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yaoxia0703&show_icons=true&theme=default" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoxia0703&layout=compact" />
 </p>
+
+## 🔥 Coding Streak
+
+<img src="https://streak-stats.demolab.com?user=yaoxia0703&theme=default" />
+
+## 🕒 Weekly Coding Time
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
