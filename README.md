@@ -19,7 +19,7 @@ Based in Japan 🇯🇵
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,vue,ts,js,docker,linux,git,maven" />
