@@ -137,7 +137,11 @@ Spring Bootベースのブログシステム（個人開発）
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     1 hr 4 mins           ███████████▓░░░░░░░░░░░░░   46.55 %
+TypeScript   42 mins               ███████▓░░░░░░░░░░░░░░░░░   30.97 %
+Vue.js       18 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Git Config   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+YAML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
