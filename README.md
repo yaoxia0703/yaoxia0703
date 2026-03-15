@@ -18,6 +18,10 @@ Based in Japan 🇯🇵
 また、個人プロジェクトとしてSpring Bootベースのブログシステム開発を行っており、RBAC権限管理やJWT認証に加え、DDD（Domain Driven Design）を意識したアーキテクチャ設計にも取り組んでいます。
 
 ---
+## 🕒 Weekly Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🛠 Tech Stack
 
