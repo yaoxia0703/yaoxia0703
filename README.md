@@ -15,7 +15,7 @@ Based in Japan 🇯🇵
 
 現在は日本の企業にて業務システムの開発に携わり、既存システムの機能改善、リファクタリング、パフォーマンス最適化などにも取り組んでいます。
 
-また、個人プロジェクトとしてSpring Bootベースのブログシステム開発を行い、RBAC権限管理やJWT認証などを取り入れた実践的なシステム設計にも挑戦しています。
+また、個人プロジェクトとしてSpring Bootベースのブログシステム開発を行っており、RBAC権限管理やJWT認証に加え、DDD（Domain Driven Design）を意識したアーキテクチャ設計にも取り組んでいます。
 
 ---
 
@@ -52,6 +52,12 @@ Based in Japan 🇯🇵
 - JavaScript
 - Element Plus
 
+### Architecture
+
+- DDD-inspired Modular Architecture
+- Layered Architecture
+- Modular Design
+
 ---
 
 # 🚀 Main Personal Project
@@ -68,6 +74,7 @@ Spring Bootベースのブログシステム（個人開発）
 - JWT Authentication
 - RBAC Permission System
 - Vue 3 + Element Plus
+- DDD-oriented Architecture
 
 **Features**
 
@@ -77,6 +84,7 @@ Spring Bootベースのブログシステム（個人開発）
 - コメント機能
 - カテゴリ・タグ管理
 - 認証・認可
+- モジュール分割を意識したアーキテクチャ設計
 
 ---
 
