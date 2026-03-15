@@ -72,6 +72,7 @@ Based in Japan 🇯🇵
 - Docker
 - Linux
 - IntelliJ IDEA
+- VS Code
 - Postman
 - Swagger / OpenAPI
 
