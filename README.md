@@ -33,7 +33,7 @@ Based in Japan 🇯🇵
 - Spring Security
 - Spring Data JPA
 - MyBatis / MyBatis Plus
-- REST API Design
+- RESTful API Design
 
 ### Database
 
@@ -48,7 +48,6 @@ Based in Japan 🇯🇵
 - Redis
 - JWT Authentication
 - RBAC Permission Control
-- Session / Token Authentication
 
 ### Frontend
 
@@ -59,9 +58,10 @@ Based in Japan 🇯🇵
 
 ### Architecture
 
-- DDD-inspired Modular Architecture
+- Domain-Driven Design (DDD)
+- Domain Model Design
 - Layered Architecture
-- Modular Design
+- Modular Architecture
 - RBAC Authorization Design
 
 ### Dev Tools
@@ -80,8 +80,8 @@ Based in Japan 🇯🇵
 
 - Alibaba Cloud
 - Nginx
-- Docker Deployment
-- Linux Server Deployment
+- Docker
+- Linux Server
   
 ---
 
