@@ -88,29 +88,46 @@ Based in Japan 🇯🇵
 
 # 🚀 Main Personal Project
 
-## manpower-blog
+## 🚀 manpower-blog
 
-Spring Bootベースのブログシステム（個人開発）
+Spring Boot + Vue3 によるブログシステム（企業レベル設計を意識した個人開発）
 
-**Tech Stack**
+### 🧩 Architecture
 
-- Spring Boot 3
-- MyBatis Plus
-- Redis
-- JWT Authentication
-- RBAC Permission System
-- Vue 3 + Element Plus
-- DDD-oriented Architecture
+- DDD（Domain Driven Design）を意識したマルチモジュール構成
+- system / content / infra で責務分離
+- RESTful API設計（統一レスポンス構造）
+- グローバル例外ハンドリング
 
-**Features**
+### 🔐 Security
+
+- Spring Security + JWT による認証・認可
+- RBAC（ユーザー・ロール・メニュー）権限管理
+- 動的メニュー制御（フロント連携）
+
+### ⚙️ Technical Highlights
+
+- MyBatis Plus による効率的なデータアクセス設計
+- Redis を利用したキャッシュ・セッション補助
+- AES-256-GCM による機密データ暗号化
+- MDC（traceId / operator）によるログ設計
+- 設定値の暗号化（Jasypt対応可能）
+
+### 🖥️ Frontend
+
+- Vue 3 + TypeScript + Element Plus
+- 動的ルーティング + 権限制御
+- Pinia による状態管理
+
+### 📌 Features（※補助的に少しだけ）
 
 - ユーザー管理
-- ロール・権限管理
-- 記事管理
-- コメント機能
-- カテゴリ・タグ管理
-- 認証・認可
-- モジュール分割を意識したアーキテクチャ設計
+- 記事・コメント・カテゴリ管理
+
+### 📄 Documentation:
+- README.md
+- ARCHITECTURE.md（構成図あり）
+- API-DESIGN.md
 
 ---
 
