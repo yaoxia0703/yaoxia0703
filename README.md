@@ -154,11 +154,11 @@ Spring Boot + Vue3 によるブログシステム（企業レベル設計を意�
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              41 mins               █████████████▒░░░░░░░░░░░   53.20 %
-Java              13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Java Properties   9 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-textmate          4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-GitIgnore file    4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML              50 mins               █████████████▓░░░░░░░░░░░   55.03 %
+Java              17 mins               █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+Java Properties   9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+textmate          4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+GitIgnore file    4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
