@@ -154,7 +154,7 @@ Spring Boot + Vue3 によるブログシステム（企業レベル設計を意�
 <!--START_SECTION:waka-->
 
 ```txt
-Java   33 mins               █████████████████████████   100.00 %
+Java   32 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
