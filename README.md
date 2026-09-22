@@ -154,7 +154,7 @@ Spring Boot + Vue3 によるブログシステム（企業レベル設計を意�
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   1 hr 1 min            █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
